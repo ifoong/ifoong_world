@@ -1,0 +1,35 @@
+[33mcommit 7c0846d7d0c8139d59b5722eca4f5f4ae7b53792[m
+Author: Mike Ferraco <mferraco@andrew.cmu.edu>
+Date:   Thu Apr 26 19:44:54 2012 -0400
+
+    finished article model
+
+[33mcommit 53d1db074672f779127b45d4a1c248ca6fab1469[m
+Author: profh <profh@cmu.edu>
+Date:   Fri Apr 20 08:07:52 2012 -0400
+
+    Added .active scopes to proverbs and photos controllers
+
+[33mcommit 20d88c1911fbc59fe64ba74a4cd0d702110c66cb[m
+Author: profh <profh@cmu.edu>
+Date:   Thu Apr 19 20:30:15 2012 -0400
+
+    Adding a copy of the database so project is prepopulated
+
+[33mcommit 3a1d2f1b02ce854c04a8cbf35f867ee509b0e0c1[m
+Author: profh <profh@cmu.edu>
+Date:   Thu Apr 19 20:29:10 2012 -0400
+
+    Added content to README.rdoc
+
+[33mcommit 4047037dd3efe16dd61dee5947cfb64a79313680[m
+Author: profh <profh@cmu.edu>
+Date:   Thu Apr 19 20:28:21 2012 -0400
+
+    Removing some misc artifacts of the solution from the project base
+
+[33mcommit 674d45ca17b1cb493dac6fb3791f4096baca4822[m
+Author: profh <profh@cmu.edu>
+Date:   Thu Apr 19 19:23:56 2012 -0400
+
+    Base project for start of the pull request lab
